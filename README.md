@@ -1,12 +1,86 @@
-- 👋 Hi, I’m @ashe0123
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning software engineering at woldia university.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me using gmail ashenafim2020gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ashenafi Minaye
 
-<!---
-ashe0123/ashe0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Software Engineer | Full Stack Website Developer | University Final Year Student
+
+Welcome to my GitHub portfolio! I am a passionate Software Engineering student at Woldia University with strong interest in building full-stack web applications using modern technologies.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Final year Software Engineering student at **Woldia University**
+- 💡 Passionate about web development and building real-world systems
+- 🔧 Focused on full-stack development using modern JavaScript technologies
+- 🌱 Always learning and improving my development skills
+- 🤝 Open to collaboration and internship opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- Next.js
+- HTML
+- CSS
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- PostgreSQL
+- SQLite
+
+**Authentication:**
+- JWT (JSON Web Token)
+
+**Other Tools:**
+- Git & GitHub
+
+---
+
+## 📂 Featured Project
+
+### 🏦 Wazema Saving and Credit Basic Cooperative (SCBC)
+
+A full-featured microfinance management system for savings, loans, and member management.
+
+**Tech Stack:**
+- Next.js (Frontend)
+- Node.js + Express (Backend)
+- PostgreSQL / SQLite
+- JWT Authentication
+
+**Role:** Solo Developer
+
+---
+
+## 💼 Experience
+
+### 🇪🇹 Ethio Telecom
+**Role:** Assistant on MSAG staff operation (without office)
+
+- Assisted MSAG staff in repairing and installation of MSAG systems
+- Provided MSAG services for customers
+- Supported technical operations and field service tasks
+
+---
+
+## 📊 Education
+
+- 🎓 **Woldia University**
+- 📘 Software Engineering (Final Year Student)
+
+---
+
+## 📬 Contact Me
+
+- GitHub: https://github.com/ashe0123  
+- Email: ashenafim2020@gmail.com  
+- Telegram: @ashem212  
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration, internships, and new opportunities in software development. Feel free to reach out!
