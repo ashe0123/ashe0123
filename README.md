@@ -58,9 +58,8 @@ A full-featured microfinance management system for savings, loans, and member ma
 ## 💼 Experience
 
 ### 🇪🇹 Ethio Telecom
-**Role:** Assistant on MSAG staff operation (without office)
-
-- Assisted MSAG staff in repairing and installation of MSAG systems
+**Role:** Assistant on MSAG staff operationin office and field.
+- Assisted MSAG staff in repairing and installation of MSAG Hardware.
 - Provided MSAG services for customers
 - Supported technical operations and field service tasks
 
@@ -70,14 +69,16 @@ A full-featured microfinance management system for savings, loans, and member ma
 
 - 🎓 **Woldia University**
 - 📘 Software Engineering (Final Year Student)
-
+- 🎓 **Encodo College**
+ - - 📘 Management(Graguated)
 ---
 
 ## 📬 Contact Me
 
 - GitHub: https://github.com/ashe0123  
 - Email: ashenafim2020@gmail.com  
-- Telegram: @ashem212  
+- Telegram: @ashem212
+- phone no: +251919086600
 
 ---
 
